@@ -1,0 +1,13 @@
+
+{
+  "name": "plusbot",
+  "version": "1.0.0",
+  "description": "A simple Discord bot called PlusBot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.11.0"
+  }
+}
